@@ -1,0 +1,25 @@
+/* h1 {color:green} */
+
+.Games{
+ background-color: aqua;  
+ border: solid; 
+ border-radius: 5px;
+ width: 400px;
+ height: 400px;
+ color:black;
+ margin: 100px;
+}
+
+/* .special h1{
+    color:black;
+   } */
+
+   .special{
+    margin-top: 90px;
+    margin-left: 200px;
+    margin-bottom: 90px;
+   }
+
+   
+
+
